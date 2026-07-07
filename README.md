@@ -15,7 +15,7 @@
 
 
 
-**About Me:** I am a final-year B.Tech student at **NIT Durgapur**[cite: 1]. I love solving coding problems and building web applications that are both useful and easy to use. I enjoy exploring new technologies, especially in web development and artificial intelligence, and I am always looking for the next challenge to learn and build something great!
+**About Me:** I am a final-year B.Tech student at **NIT Durgapur**. I love solving coding problems and building web applications that are both useful and easy to use. I enjoy exploring new technologies, especially in web development and artificial intelligence, and I am always looking for the next challenge to learn and build something great!
 
 
 <h2><img src="https://img.icons8.com/fluency/48/000000/mind-map.png" width="32" align="center"/> Areas of Interest</h2>
